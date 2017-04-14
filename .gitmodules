@@ -4,3 +4,6 @@
 [submodule "restapi"]
 	path = restapi
 	url = ./restapi
+[submodule "blog"]
+	path = blog
+	url = ./blog
